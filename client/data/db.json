@@ -1,0 +1,522 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "firstName": "Jan",
+      "lastName": "Smit",
+      "title": "Head of Engineering",
+      "department": "Engineering",
+      "company": "Red Star",
+      "country": "Netherlands",
+      "commercial": "Anna Wong"
+    },
+    {
+      "id": "2",
+      "firstName": "Anna",
+      "lastName": "Wong",
+      "title": "Commercial Manager",
+      "department": "Sales",
+      "company": "Blue Ocean",
+      "country": "USA",
+      "commercial": "Sam Lee"
+    },
+    {
+      "id": "3",
+      "firstName": "Sam",
+      "lastName": "Lee",
+      "title": "Senior Developer",
+      "department": "IT",
+      "company": "Green Tech",
+      "country": "UK",
+      "commercial": "Jan Smit"
+    },
+    {
+      "id": "4",
+      "firstName": "Lucy",
+      "lastName": "Adams",
+      "title": "HR Specialist",
+      "department": "HR",
+      "company": "Golden Sun",
+      "country": "Australia",
+      "commercial": "Mia Perez"
+    },
+    {
+      "id": "5",
+      "firstName": "Mia",
+      "lastName": "Perez",
+      "title": "Sales Executive",
+      "department": "Sales",
+      "company": "Yellow River",
+      "country": "Spain",
+      "commercial": "Anna Wong"
+    },
+    {
+      "id": "6",
+      "firstName": "John",
+      "lastName": "Doe",
+      "title": "Marketing Manager",
+      "department": "Marketing",
+      "company": "Silver Cloud",
+      "country": "Canada",
+      "commercial": "Sam Lee"
+    },
+    {
+      "id": "7",
+      "firstName": "Emily",
+      "lastName": "Clark",
+      "title": "Senior Engineer",
+      "department": "Engineering",
+      "company": "Red Star",
+      "country": "USA",
+      "commercial": "Jan Smit"
+    },
+    {
+      "id": "8",
+      "firstName": "David",
+      "lastName": "Turner",
+      "title": "Chief Financial Officer",
+      "department": "Finance",
+      "company": "Blue Ocean",
+      "country": "Australia",
+      "commercial": "Anna Wong"
+    },
+    {
+      "id": "9",
+      "firstName": "Sarah",
+      "lastName": "Johnson",
+      "title": "Product Designer",
+      "department": "Design",
+      "company": "Green Tech",
+      "country": "UK",
+      "commercial": "Mia Perez"
+    },
+    {
+      "id": "10",
+      "firstName": "Michael",
+      "lastName": "Anderson",
+      "title": "Project Manager",
+      "department": "Project Management",
+      "company": "Golden Sun",
+      "country": "Spain",
+      "commercial": "David Turner"
+    },
+    {
+      "id": "11",
+      "firstName": "Sophia",
+      "lastName": "Bennett",
+      "title": "Junior Developer",
+      "department": "IT",
+      "company": "Silver Cloud",
+      "country": "Canada",
+      "commercial": "Sam Lee"
+    },
+    {
+      "id": "12",
+      "firstName": "Daniel",
+      "lastName": "White",
+      "title": "Sales Manager",
+      "department": "Sales",
+      "company": "Red Star",
+      "country": "Netherlands",
+      "commercial": "Jan Smit"
+    },
+    {
+      "id": "13",
+      "firstName": "Isabella",
+      "lastName": "Wright",
+      "title": "Operations Specialist",
+      "department": "Operations",
+      "company": "Blue Ocean",
+      "country": "UK",
+      "commercial": "Anna Wong"
+    },
+    {
+      "id": "14",
+      "firstName": "James",
+      "lastName": "Taylor",
+      "title": "Lead Engineer",
+      "department": "Engineering",
+      "company": "Green Tech",
+      "country": "Australia",
+      "commercial": "Mia Perez"
+    },
+    {
+      "id": "15",
+      "firstName": "Olivia",
+      "lastName": "Roberts",
+      "title": "Customer Service",
+      "department": "Customer Service",
+      "company": "Yellow River",
+      "country": "USA",
+      "commercial": "Sam Lee"
+    }
+  ],
+    "offers": [
+      {
+        "title": "Project Blue Sky",
+        "company": "Repsol",
+        "amount": "40,000",
+        "subsidiary": "petro-chemical",
+        "commercial": "Pau Suarez",
+        "country": "Spain",
+        "sector": "Oil",
+        "subsector": "Crude",
+        "probability": "high",
+        "offer": "open",
+        "type": "easy",
+        "city": "Madrid"
+      },
+      {
+        "title": "Green Horizon Initiative",
+        "company": "Shell",
+        "amount": "55,000",
+        "subsidiary": "energy",
+        "commercial": "Laura Brown",
+        "country": "Netherlands",
+        "sector": "Oil",
+        "subsector": "Refined",
+        "probability": "medium",
+        "offer": "closed",
+        "type": "challenging",
+        "city": "The Hague"
+      },
+      {
+        "title": "Ocean Wind Power",
+        "company": "EDF",
+        "amount": "80,000",
+        "subsidiary": "renewables",
+        "commercial": "Julien Dubois",
+        "country": "France",
+        "sector": "Energy",
+        "subsector": "Wind",
+        "probability": "high",
+        "offer": "open",
+        "type": "easy",
+        "city": "Paris"
+      },
+      {
+        "title": "Solar Revolution",
+        "company": "First Solar",
+        "amount": "65,000",
+        "subsidiary": "renewables",
+        "commercial": "Sarah Green",
+        "country": "USA",
+        "sector": "Energy",
+        "subsector": "Solar",
+        "probability": "medium",
+        "offer": "open",
+        "type": "challenging",
+        "city": "San Francisco"
+      },
+      {
+        "title": "Natural Gas Expansion",
+        "company": "BP",
+        "amount": "50,000",
+        "subsidiary": "energy",
+        "commercial": "David Johnson",
+        "country": "UK",
+        "sector": "Gas",
+        "subsector": "Natural",
+        "probability": "high",
+        "offer": "open",
+        "type": "easy",
+        "city": "London"
+      },
+      {
+        "title": "Hydroelectric Upgrade",
+        "company": "GE",
+        "amount": "75,000",
+        "subsidiary": "infrastructure",
+        "commercial": "Thomas Chen",
+        "country": "China",
+        "sector": "Energy",
+        "subsector": "Hydroelectric",
+        "probability": "low",
+        "offer": "closed",
+        "type": "challenging",
+        "city": "Shanghai"
+      },
+      {
+        "title": "Geothermal Drilling",
+        "company": "Ormat",
+        "amount": "30,000",
+        "subsidiary": "renewables",
+        "commercial": "Michael Kim",
+        "country": "Iceland",
+        "sector": "Energy",
+        "subsector": "Geothermal",
+        "probability": "medium",
+        "offer": "open",
+        "type": "easy",
+        "city": "Reykjavik"
+      },
+      {
+        "title": "Biofuel Production",
+        "company": "Valero",
+        "amount": "45,000",
+        "subsidiary": "energy",
+        "commercial": "Emily Martin",
+        "country": "USA",
+        "sector": "Energy",
+        "subsector": "Biofuel",
+        "probability": "high",
+        "offer": "open",
+        "type": "challenging",
+        "city": "Houston"
+      },
+      {
+        "title": "Coal Plant Closure",
+        "company": "Duke Energy",
+        "amount": "20,000",
+        "subsidiary": "energy",
+        "commercial": "James White",
+        "country": "USA",
+        "sector": "Energy",
+        "subsector": "Coal",
+        "probability": "low",
+        "offer": "closed",
+        "type": "challenging",
+        "city": "Charlotte"
+      },
+      {
+        "title": "Advanced Nuclear Reactors",
+        "company": "Westinghouse",
+        "amount": "60,000",
+        "subsidiary": "energy",
+        "commercial": "Anna Lee",
+        "country": "USA",
+        "sector": "Energy",
+        "subsector": "Nuclear",
+        "probability": "medium",
+        "offer": "open",
+        "type": "challenging",
+        "city": "Pittsburgh"
+      },
+      {
+        "title": "LNG Terminal Development",
+        "company": "Total",
+        "amount": "85,000",
+        "subsidiary": "energy",
+        "commercial": "Hassan Ahmed",
+        "country": "Qatar",
+        "sector": "Gas",
+        "subsector": "LNG",
+        "probability": "high",
+        "offer": "open",
+        "type": "easy",
+        "city": "Doha"
+      },
+      {
+        "title": "Offshore Wind Expansion",
+        "company": "Ørsted",
+        "amount": "90,000",
+        "subsidiary": "renewables",
+        "commercial": "Morten Nielsen",
+        "country": "Denmark",
+        "sector": "Energy",
+        "subsector": "Wind",
+        "probability": "medium",
+        "offer": "open",
+        "type": "challenging",
+        "city": "Copenhagen"
+      },
+      {
+        "title": "Hydrogen Production",
+        "company": "Siemens",
+        "amount": "70,000",
+        "subsidiary": "energy",
+        "commercial": "Sophia Wagner",
+        "country": "Germany",
+        "sector": "Energy",
+        "subsector": "Hydrogen",
+        "probability": "high",
+        "offer": "open",
+        "type": "easy",
+        "city": "Munich"
+      },
+      {
+        "title": "Electric Grid Modernization",
+        "company": "ABB",
+        "amount": "95,000",
+        "subsidiary": "infrastructure",
+        "commercial": "Robert Svensson",
+        "country": "Sweden",
+        "sector": "Energy",
+        "subsector": "Electricity",
+        "probability": "medium",
+        "offer": "open",
+        "type": "challenging",
+        "city": "Stockholm"
+      },
+      {
+        "title": "Energy Storage Facility",
+        "company": "Tesla",
+        "amount": "100,000",
+        "subsidiary": "technology",
+        "commercial": "Elon Musk",
+        "country": "USA",
+        "sector": "Energy",
+        "subsector": "Storage",
+        "probability": "high",
+        "offer": "open",
+        "type": "easy",
+        "city": "Palo Alto"
+      }
+    ],
+  
+  "users": [
+    {
+      "firstName": "Jan",
+      "lastName": "Smit",
+      "email": "jsmit@gmail.com",
+      "password": "123456",
+      "id": "fd9b",
+      "role": "admin"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "id": "fb87",
+      "role": "user"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "qwerty",
+      "id": "5128",
+      "role": "user"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Smith",
+      "email": "m.smith@example.com",
+      "password": "pass123",
+      "id": "afa0",
+      "role": "user"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "email": "emily.brown@example.com",
+      "password": "brownie",
+      "id": "bec9",
+      "role": "user"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "david.wilson@example.com",
+      "password": "wilson123",
+      "id": "88d4",
+      "role": "user"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Clark",
+      "email": "sarah.clark@example.com",
+      "password": "sclark",
+      "id": "04b1",
+      "role": "admin"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Anderson",
+      "email": "james.anderson@example.com",
+      "password": "anderson789",
+      "id": "c879",
+      "role": "user"
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Martinez",
+      "email": "laura.martinez@example.com",
+      "password": "laura123",
+      "id": "c331",
+      "role": "user"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Thompson",
+      "email": "daniel.thompson@example.com",
+      "password": "thompson456",
+      "id": "66fd",
+      "role": "user"
+    },
+    {
+      "id": "2c04",
+      "firstName": "Wim",
+      "lastName": "de Beck",
+      "email": "wim@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "42e4",
+      "firstName": "Anne",
+      "lastName": "Stein",
+      "email": "astone@gmail.com",
+      "password": "1234567",
+      "role": "user"
+    },
+    {
+      "id": "18f9",
+      "firstName": "Paolo",
+      "lastName": "Damen",
+      "email": "paolodamen@gmail.com",
+      "password": "jkljklj",
+      "role": "user"
+    },
+    {
+      "id": "2f31",
+      "firstName": "Bert",
+      "lastName": "Last",
+      "email": "bl@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "9af4",
+      "firstName": "Hans",
+      "lastName": "Pedersen",
+      "email": "hp@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "9a7b",
+      "email": "jsmit@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "fad5",
+      "email": "jsmit@gmail.com",
+      "password": "678oiuoiuoiuoiuoiu"
+    },
+    {
+      "id": "0ee9",
+      "email": "kl@gmail.xom",
+      "password": "kl;k;lk;lk"
+    },
+    {
+      "id": "7263",
+      "email": "wim@gmail.com",
+      "password": "k;lk;lk;l"
+    },
+    {
+      "id": "339f",
+      "firstName": "Paolo",
+      "lastName": "de Beck",
+      "email": "wim@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "c384",
+      "firstName": "Paolo",
+      "lastName": "Smti",
+      "email": "paolodamen@gmail.com",
+      "password": "1234567"
+    }
+  ]
+}

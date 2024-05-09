@@ -1,0 +1,30 @@
+@api = http://localhost:4000
+
+###
+POST {{api}}/mormedi/clients
+Content-Type: application/json
+
+
+{
+    "name": "pepe",
+    "lastname": "lorenzo",
+    "qualification": "***",
+    "department": "***",
+    "company": "***",
+    "telephone": 65920113,
+    "address": "japon",
+    "postal_code": 123,
+    "city": "tokio",
+    "comments": "***",
+    "user": {
+      "create":[
+        {
+          
+        }
+      ]
+    }
+}
+
+###
+GET {{api}}/auth/login
+
